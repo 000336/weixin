@@ -4,7 +4,7 @@
 
 //Setup the module information
 var moduleLaunchInfo = {
-    Name: "HTML",
+    Name: "WEIXIN",
 	Desc: "Weixin for application embed",
 	Group: "Internet",
 	IconPath: "weixin/icon.png",
