@@ -1,0 +1,21 @@
+/*
+
+*/
+
+//Setup the module information
+var moduleLaunchInfo = {
+    Name: "HTML",
+	Desc: "Weixin for application embed",
+	Group: "Internet",
+	IconPath: "weixin/icon.png",
+	Version: "0.1.0",
+	StartDir: "weixin/index.html",
+	SupportFW: true,
+	LaunchFWDir: "weixin/index.html",
+	InitFWSize: [640, 480],
+	SupportedExt: []
+}
+
+
+//Register the module
+registerModule(JSON.stringify(moduleLaunchInfo));
